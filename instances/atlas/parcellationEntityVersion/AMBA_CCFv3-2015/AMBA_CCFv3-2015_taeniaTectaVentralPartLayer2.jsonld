@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_taeniaTectaVentralPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_taeniaTectaVentralPartLayer2",
   "name": "taenia tecta, ventral part, layer 2",
   "ontologyIdentifier": null,

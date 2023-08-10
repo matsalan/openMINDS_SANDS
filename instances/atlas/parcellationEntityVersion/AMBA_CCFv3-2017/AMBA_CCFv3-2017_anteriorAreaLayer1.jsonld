@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteriorArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_anteriorAreaLayer1",
   "name": "anterior area, layer 1",
   "ontologyIdentifier": null,

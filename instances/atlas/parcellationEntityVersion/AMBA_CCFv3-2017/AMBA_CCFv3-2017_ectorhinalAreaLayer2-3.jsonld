@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_ectorhinalArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_ectorhinalAreaLayer2-3",
   "name": "ectorhinal area/layer 2/3",
   "ontologyIdentifier": null,

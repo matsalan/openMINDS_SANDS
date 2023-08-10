@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_fornixSystem"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_hippocampalCommissures",
   "name": "hippocampal commissures",
   "ontologyIdentifier": null,

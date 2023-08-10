@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_trigeminalNerve"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_sensoryRootOfTheTrigeminalNerve",
   "name": "sensory root of the trigeminal nerve",
   "ontologyIdentifier": null,

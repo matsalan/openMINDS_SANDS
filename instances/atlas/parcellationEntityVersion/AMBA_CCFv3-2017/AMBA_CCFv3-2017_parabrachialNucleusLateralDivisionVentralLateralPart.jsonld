@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_parabrachialNucleusLateralDivision"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionVentralLateralPart",
   "name": "parabrachial nucleus, lateral division, ventral lateral part",
   "ontologyIdentifier": null,

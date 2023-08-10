@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaUpperLimb"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer5",
   "name": "primary somatosensory area, upper limb, layer 5",
   "ontologyIdentifier": null,

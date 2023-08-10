@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_mediomedialAnteriorVisualArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_mediomedialAnteriorVisualAreaLayer6a",
   "name": "mediomedial anterior visual area, layer 6a",
   "ontologyIdentifier": null,

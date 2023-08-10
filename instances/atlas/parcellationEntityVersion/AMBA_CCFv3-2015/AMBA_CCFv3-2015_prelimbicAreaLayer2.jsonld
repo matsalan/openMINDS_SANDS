@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_prelimbicArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_prelimbicAreaLayer2",
   "name": "prelimbic area, layer 2",
   "ontologyIdentifier": null,

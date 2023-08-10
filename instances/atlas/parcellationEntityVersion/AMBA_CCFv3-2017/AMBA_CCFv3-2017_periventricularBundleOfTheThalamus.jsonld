@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dorsalThalamusRelated"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_periventricularBundleOfTheThalamus",
   "name": "periventricular bundle of the thalamus",
   "ontologyIdentifier": null,

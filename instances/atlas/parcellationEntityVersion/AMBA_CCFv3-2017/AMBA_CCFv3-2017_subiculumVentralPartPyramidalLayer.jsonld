@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_subiculumVentralPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_subiculumVentralPartPyramidalLayer",
   "name": "subiculum, ventral part, pyramidal layer",
   "ontologyIdentifier": null,

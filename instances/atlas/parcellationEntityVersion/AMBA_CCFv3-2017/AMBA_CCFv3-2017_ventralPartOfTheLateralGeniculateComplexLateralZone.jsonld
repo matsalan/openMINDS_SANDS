@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_ventralPartOfTheLateralGeniculateComplex"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplexLateralZone",
   "name": "ventral part of the lateral geniculate complex, lateral zone",
   "ontologyIdentifier": null,

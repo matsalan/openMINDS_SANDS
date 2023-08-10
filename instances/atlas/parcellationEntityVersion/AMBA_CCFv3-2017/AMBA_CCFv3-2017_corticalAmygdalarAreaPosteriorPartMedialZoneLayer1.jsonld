@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_corticalAmygdalarAreaPosteriorPartMedialZone"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer1",
   "name": "cortical amygdalar area, posterior part, medial zone, layer 1",
   "ontologyIdentifier": null,

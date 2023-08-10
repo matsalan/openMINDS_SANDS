@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_visualAreas"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_lateralVisualArea",
   "name": "lateral visual area",
   "ontologyIdentifier": null,

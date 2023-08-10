@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteriorCingulateAreaVentralPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_anteriorCingulateAreaVentralPartLayer1",
   "name": "anterior cingulate area, ventral part, layer 1",
   "ontologyIdentifier": null,

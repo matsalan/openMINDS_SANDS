@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_bedNucleiOfTheStriaTerminalisAnteriorDivision"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_bedNucleiOfTheStriaTerminalisAnteriorDivisionDorsomedialNucleus",
   "name": "bed nuclei of the stria terminalis, anterior division, dorsomedial nucleus",
   "ontologyIdentifier": null,

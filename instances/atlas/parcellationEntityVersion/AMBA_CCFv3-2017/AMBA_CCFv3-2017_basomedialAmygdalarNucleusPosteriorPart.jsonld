@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_basomedialAmygdalarNucleus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_basomedialAmygdalarNucleusPosteriorPart",
   "name": "basomedial amygdalar nucleus, posterior part",
   "ontologyIdentifier": null,

@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paramedianLobule"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_paramedianLobulePurkinjeLayer",
   "name": "paramedian lobule, Purkinje layer",
   "ontologyIdentifier": null,

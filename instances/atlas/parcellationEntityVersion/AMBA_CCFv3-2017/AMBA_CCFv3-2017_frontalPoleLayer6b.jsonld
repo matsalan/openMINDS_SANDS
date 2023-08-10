@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_frontalPoleCerebralCortex"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_frontalPoleLayer6b",
   "name": "frontal pole, layer 6b",
   "ontologyIdentifier": null,

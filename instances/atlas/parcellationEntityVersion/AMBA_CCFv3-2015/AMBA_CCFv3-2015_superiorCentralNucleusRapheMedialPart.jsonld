@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_superiorCentralNucleusRaphe"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_superiorCentralNucleusRapheMedialPart",
   "name": "superior central nucleus raphe, medial part",
   "ontologyIdentifier": null,

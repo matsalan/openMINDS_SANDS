@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_fieldCa3"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_fieldCA3StratumLucidum",
   "name": "field CA3, stratum lucidum",
   "ontologyIdentifier": null,

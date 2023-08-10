@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_medullaBehavioralStateRelated"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_nucleusRapheMagnus",
   "name": "nucleus raphe magnus",
   "ontologyIdentifier": null,

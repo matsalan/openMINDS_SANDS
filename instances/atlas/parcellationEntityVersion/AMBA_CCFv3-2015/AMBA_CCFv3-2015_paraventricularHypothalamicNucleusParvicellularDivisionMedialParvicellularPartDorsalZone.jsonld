@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusParvicellularDivision"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_paraventricularHypothalamicNucleusParvicellularDivisionMedialParvicellularPartDorsalZone",
   "name": "paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",
   "ontologyIdentifier": null,

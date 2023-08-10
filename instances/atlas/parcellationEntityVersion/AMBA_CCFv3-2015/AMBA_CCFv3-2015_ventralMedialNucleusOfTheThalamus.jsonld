@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_ventralGroupOfTheDorsalThalamus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_ventralMedialNucleusOfTheThalamus",
   "name": "ventral medial nucleus of the thalamus",
   "ontologyIdentifier": null,

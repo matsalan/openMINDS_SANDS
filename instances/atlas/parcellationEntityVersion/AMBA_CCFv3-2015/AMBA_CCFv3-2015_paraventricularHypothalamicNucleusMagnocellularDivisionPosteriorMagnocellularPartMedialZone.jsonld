@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusMagnocellularDivisionPosteriorMagnocellularPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_paraventricularHypothalamicNucleusMagnocellularDivisionPosteriorMagnocellularPartMedialZone",
   "name": "paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",
   "ontologyIdentifier": null,

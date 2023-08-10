@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_somatomotorAreas"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_somatomotorAreasLayer6a",
   "name": "somatomotor areas, layer 6a",
   "ontologyIdentifier": null,

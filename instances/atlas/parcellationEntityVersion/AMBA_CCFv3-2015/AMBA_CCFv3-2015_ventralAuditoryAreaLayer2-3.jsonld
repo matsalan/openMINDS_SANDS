@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_ventralAuditoryArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_ventralAuditoryAreaLayer2-3",
   "name": "ventral auditory area, layer 2/3",
   "ontologyIdentifier": null,

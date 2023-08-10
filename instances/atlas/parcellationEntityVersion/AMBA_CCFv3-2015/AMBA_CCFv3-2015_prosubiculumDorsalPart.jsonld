@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_prosubiculum"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_prosubiculumDorsalPart",
   "name": "prosubiculum, dorsal part",
   "ontologyIdentifier": null,

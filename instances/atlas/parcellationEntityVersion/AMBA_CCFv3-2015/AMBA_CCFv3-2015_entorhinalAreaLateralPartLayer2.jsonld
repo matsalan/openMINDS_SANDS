@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_entorhinalAreaLateralPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_entorhinalAreaLateralPartLayer2",
   "name": "entorhinal area, lateral part, layer 2",
   "ontologyIdentifier": null,

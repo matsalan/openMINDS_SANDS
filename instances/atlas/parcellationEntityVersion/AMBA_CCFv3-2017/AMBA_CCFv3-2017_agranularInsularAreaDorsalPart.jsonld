@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_agranularInsularArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_agranularInsularAreaDorsalPart",
   "name": "agranular insular area, dorsal part",
   "ontologyIdentifier": null,

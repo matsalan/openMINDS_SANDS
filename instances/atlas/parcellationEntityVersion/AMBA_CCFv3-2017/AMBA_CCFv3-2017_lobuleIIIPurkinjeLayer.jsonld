@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_lobuleIii"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_lobuleIIIPurkinjeLayer",
   "name": "lobule III, Purkinje layer",
   "ontologyIdentifier": null,

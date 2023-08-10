@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_nodulus(X)"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_nodulusXMolecularLayer",
   "name": "nodulus (X), molecular layer",
   "ontologyIdentifier": null,

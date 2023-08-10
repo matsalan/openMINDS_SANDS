@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_superiorColliculusMotorRelated"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_superiorColliculusMotorRelatedDeepWhiteLayer",
   "name": "superior colliculus, motor related, deep white layer",
   "ontologyIdentifier": null,

@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dorsalPeduncularArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_dorsalPeduncularAreaLayer1",
   "name": "dorsal peduncular area, layer 1",
   "ontologyIdentifier": null,

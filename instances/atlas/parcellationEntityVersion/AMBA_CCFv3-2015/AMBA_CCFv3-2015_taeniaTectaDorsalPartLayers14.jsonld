@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_taeniaTectaDorsalPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_taeniaTectaDorsalPartLayers14",
   "name": "taenia tecta, dorsal part, layers 1-4",
   "ontologyIdentifier": null,

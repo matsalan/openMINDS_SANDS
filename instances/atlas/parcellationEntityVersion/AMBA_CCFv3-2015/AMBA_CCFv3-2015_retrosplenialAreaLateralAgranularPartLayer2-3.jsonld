@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_retrosplenialAreaLateralAgranularPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_retrosplenialAreaLateralAgranularPartLayer2-3",
   "name": "retrosplenial area, lateral agranular part, layer 2/3",
   "ontologyIdentifier": null,

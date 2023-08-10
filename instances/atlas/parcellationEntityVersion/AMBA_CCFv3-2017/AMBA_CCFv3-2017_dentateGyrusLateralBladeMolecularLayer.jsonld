@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusLateralBlade"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_dentateGyrusLateralBladeMolecularLayer",
   "name": "dentate gyrus lateral blade, molecular layer",
   "ontologyIdentifier": null,

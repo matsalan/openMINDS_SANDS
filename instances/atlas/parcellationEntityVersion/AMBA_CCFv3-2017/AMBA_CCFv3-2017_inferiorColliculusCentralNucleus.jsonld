@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_inferiorColliculus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_inferiorColliculusCentralNucleus",
   "name": "inferior colliculus, central nucleus",
   "ontologyIdentifier": null,

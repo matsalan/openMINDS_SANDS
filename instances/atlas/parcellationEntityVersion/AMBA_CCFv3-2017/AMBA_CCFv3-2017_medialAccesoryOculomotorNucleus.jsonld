@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_midbrainMotorRelated"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_medialAccesoryOculomotorNucleus",
   "name": "medial accesory oculomotor nucleus",
   "ontologyIdentifier": null,

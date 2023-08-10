@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteromedialNucleus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_anteromedialNucleusDorsalPart",
   "name": "anteromedial nucleus, dorsal part",
   "ontologyIdentifier": null,

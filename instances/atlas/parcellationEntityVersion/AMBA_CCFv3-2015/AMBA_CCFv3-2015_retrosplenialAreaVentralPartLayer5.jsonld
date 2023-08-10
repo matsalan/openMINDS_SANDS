@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_retrosplenialAreaVentralPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_retrosplenialAreaVentralPartLayer5",
   "name": "retrosplenial area, ventral part, layer 5",
   "ontologyIdentifier": null,

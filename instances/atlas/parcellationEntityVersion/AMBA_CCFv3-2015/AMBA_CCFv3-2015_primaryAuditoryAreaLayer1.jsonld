@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primaryAuditoryArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_primaryAuditoryAreaLayer1",
   "name": "primary auditory area, layer 1",
   "ontologyIdentifier": null,

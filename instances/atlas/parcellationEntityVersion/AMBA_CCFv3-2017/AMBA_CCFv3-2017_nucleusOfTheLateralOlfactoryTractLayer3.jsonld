@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_nucleusOfTheLateralOlfactoryTract"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractLayer3",
   "name": "nucleus of the lateral olfactory tract, layer 3",
   "ontologyIdentifier": null,

@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_frontalPoleCerebralCortex"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_frontalPoleLayer2-3",
   "name": "frontal pole, layer 2/3",
   "ontologyIdentifier": null,

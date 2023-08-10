@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_fieldCa2"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_fieldCA2StratumLacunosummoleculare",
   "name": "field CA2, stratum lacunosum-moleculare",
   "ontologyIdentifier": null,

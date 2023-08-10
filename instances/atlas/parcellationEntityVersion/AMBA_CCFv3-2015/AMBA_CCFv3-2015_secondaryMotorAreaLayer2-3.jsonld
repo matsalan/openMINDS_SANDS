@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_secondaryMotorArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_secondaryMotorAreaLayer2-3",
   "name": "secondary motor area, layer 2/3",
   "ontologyIdentifier": null,

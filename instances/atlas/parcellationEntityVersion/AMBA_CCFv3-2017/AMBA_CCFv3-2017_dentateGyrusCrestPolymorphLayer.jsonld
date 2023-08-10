@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusCrest"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_dentateGyrusCrestPolymorphLayer",
   "name": "dentate gyrus crest, polymorph layer",
   "ontologyIdentifier": null,

@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_rostrolateralVisualArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_rostrolateralAreaLayer5",
   "name": "rostrolateral area, layer 5",
   "ontologyIdentifier": null,

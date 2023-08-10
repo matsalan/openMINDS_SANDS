@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_pallidumMedialRegion"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_triangularNucleusOfSeptum",
   "name": "triangular nucleus of septum",
   "ontologyIdentifier": null,

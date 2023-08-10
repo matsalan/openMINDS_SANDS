@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_postpiriformTransitionArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_postpiriformTransitionAreaLayers2",
   "name": "postpiriform transition area, layers 2",
   "ontologyIdentifier": null,

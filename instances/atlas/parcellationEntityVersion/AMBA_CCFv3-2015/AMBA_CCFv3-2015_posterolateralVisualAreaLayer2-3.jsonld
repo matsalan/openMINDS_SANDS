@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_posterolateralVisualArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_posterolateralVisualAreaLayer2-3",
   "name": "posterolateral visual area, layer 2/3",
   "ontologyIdentifier": null,

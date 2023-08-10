@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_retrosplenialAreaDorsalPart"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer6b",
   "name": "retrosplenial area, dorsal part, layer 6b",
   "ontologyIdentifier": null,

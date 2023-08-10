@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusLateralBlade"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_dentateGyrusLateralBladeGranuleCellLayer",
   "name": "dentate gyrus lateral blade, granule cell layer",
   "ontologyIdentifier": null,

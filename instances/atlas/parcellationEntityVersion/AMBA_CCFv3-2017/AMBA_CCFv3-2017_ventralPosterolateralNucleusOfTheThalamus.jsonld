@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_ventralPosteriorComplexOfTheThalamus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_ventralPosterolateralNucleusOfTheThalamus",
   "name": "ventral posterolateral nucleus of the thalamus",
   "ontologyIdentifier": null,

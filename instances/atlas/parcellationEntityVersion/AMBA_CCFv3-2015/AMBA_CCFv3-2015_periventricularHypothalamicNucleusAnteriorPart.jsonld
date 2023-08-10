@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_periventricularZone"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_periventricularHypothalamicNucleusAnteriorPart",
   "name": "periventricular hypothalamic nucleus, anterior part",
   "ontologyIdentifier": null,

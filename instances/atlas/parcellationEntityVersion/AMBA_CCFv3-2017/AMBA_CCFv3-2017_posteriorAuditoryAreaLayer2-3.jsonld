@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_posteriorAuditoryArea"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_posteriorAuditoryAreaLayer2-3",
   "name": "posterior auditory area, layer 2/3",
   "ontologyIdentifier": null,

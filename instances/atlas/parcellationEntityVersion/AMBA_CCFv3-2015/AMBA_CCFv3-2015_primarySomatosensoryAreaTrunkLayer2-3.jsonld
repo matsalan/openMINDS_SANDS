@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaTrunk"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_primarySomatosensoryAreaTrunkLayer2-3",
   "name": "primary somatosensory area, trunk, layer 2/3",
   "ontologyIdentifier": null,

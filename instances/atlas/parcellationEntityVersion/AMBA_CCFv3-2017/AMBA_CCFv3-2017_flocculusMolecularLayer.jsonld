@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_flocculus"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2017_flocculusMolecularLayer",
   "name": "flocculus, molecular layer",
   "ontologyIdentifier": null,

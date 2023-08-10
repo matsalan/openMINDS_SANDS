@@ -42,7 +42,11 @@
       "type": null
     }
   ],
-  "hasParent": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_medialGeniculateComplex"
+    }
+  ],
   "lookupLabel": "AMBA_CCFv3-2015_medialGeniculateComplexMedialPart",
   "name": "medial geniculate complex, medial part",
   "ontologyIdentifier": null,
