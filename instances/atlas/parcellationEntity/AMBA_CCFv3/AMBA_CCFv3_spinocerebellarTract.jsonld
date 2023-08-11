@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_spinocerebellarTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_superiorCerebellarPeduncleDecussation"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_spinocerebellarTract"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinocerebellarTract"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_spinocerebellarTract",
+  "name": "spinocerebellar tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_medialLongitudinalFascicle",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_oculomotorNerve"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_medialLongitudinalFascicle"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialLongitudinalFascicle"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_medialLongitudinalFascicle",
+  "name": "medial longitudinal fascicle",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

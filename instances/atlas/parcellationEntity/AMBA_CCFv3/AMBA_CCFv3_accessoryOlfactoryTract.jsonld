@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_accessoryOlfactoryTract",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_lateralOlfactoryTract,General"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_accessoryOlfactoryTract"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryTract"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_accessoryOlfactoryTract",
+  "name": "accessory olfactory tract",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

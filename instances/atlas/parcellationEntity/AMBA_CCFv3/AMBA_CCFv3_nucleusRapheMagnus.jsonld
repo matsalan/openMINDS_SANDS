@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_nucleusRapheMagnus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_medulla,BehavioralStateRelated"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_nucleusRapheMagnus"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusRapheMagnus"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_nucleusRapheMagnus",
+  "name": "nucleus raphe magnus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

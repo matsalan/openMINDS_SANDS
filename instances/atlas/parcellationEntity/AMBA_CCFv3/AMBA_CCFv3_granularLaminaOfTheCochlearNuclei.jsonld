@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_granularLaminaOfTheCochlearNuclei",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_cochlearNuclei"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_granularLaminaOfTheCochlearNuclei"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_granularLaminaOfTheCochlearNuclei"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_granularLaminaOfTheCochlearNuclei",
+  "name": "granular lamina of the cochlear nuclei",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_propriohypothalamicPathwaysVentral",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_propriohypothalamicPathways"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_propriohypothalamicPathwaysVentral"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathwaysVentral"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_propriohypothalamicPathwaysVentral",
+  "name": "propriohypothalamic pathways, ventral",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

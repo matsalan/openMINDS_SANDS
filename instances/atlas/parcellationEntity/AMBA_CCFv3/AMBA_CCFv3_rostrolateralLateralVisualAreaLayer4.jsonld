@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_rostrolateralLateralVisualAreaLayer4",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_rostrolateralLateralVisualArea"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_rostrolateralLateralVisualAreaLayer4"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer4"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_rostrolateralLateralVisualAreaLayer4",
+  "name": "rostrolateral lateral visual area, layer 4",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

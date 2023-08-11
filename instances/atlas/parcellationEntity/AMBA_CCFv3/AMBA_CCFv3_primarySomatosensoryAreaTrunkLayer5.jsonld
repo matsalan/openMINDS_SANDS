@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaTrunkLayer5",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaTrunk"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_primarySomatosensoryAreaTrunkLayer5"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer5"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_primarySomatosensoryAreaTrunkLayer5",
+  "name": "primary somatosensory area, trunk, layer 5",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

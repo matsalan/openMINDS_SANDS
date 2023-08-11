@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorMagnocellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusMagnocellularDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorMagnocellularPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorMagnocellularPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorMagnocellularPart",
+  "name": "paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

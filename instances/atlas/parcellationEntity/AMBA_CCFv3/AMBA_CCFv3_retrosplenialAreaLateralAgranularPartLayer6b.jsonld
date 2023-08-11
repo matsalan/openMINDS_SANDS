@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_retrosplenialAreaLateralAgranularPartLayer6b",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_retrosplenialAreaLateralAgranularPart"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_retrosplenialAreaLateralAgranularPartLayer6b"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer6b"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_retrosplenialAreaLateralAgranularPartLayer6b",
+  "name": "retrosplenial area, lateral agranular part, layer 6b",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

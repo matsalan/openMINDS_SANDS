@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteriorHypothalamicNucleusCentralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteriorHypothalamicNucleus"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_anteriorHypothalamicNucleusCentralPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleusCentralPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_anteriorHypothalamicNucleusCentralPart",
+  "name": "anterior hypothalamic nucleus, central part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_entorhinalAreaLateralPartLayer5",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_entorhinalAreaLateralPart"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_entorhinalAreaLateralPartLayer5"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer5"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_entorhinalAreaLateralPartLayer5",
+  "name": "entorhinal area, lateral part, layer 5",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

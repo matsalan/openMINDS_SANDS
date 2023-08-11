@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_brachiumOfTheSuperiorColliculus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_opticNerve"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_brachiumOfTheSuperiorColliculus"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_brachiumOfTheSuperiorColliculus"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_brachiumOfTheSuperiorColliculus",
+  "name": "brachium of the superior colliculus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_parabrachialNucleusMedialDivisionMedialMedialPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_parabrachialNucleusMedialDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_parabrachialNucleusMedialDivisionMedialMedialPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionMedialMedialPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_parabrachialNucleusMedialDivisionMedialMedialPart",
+  "name": "parabrachial nucleus, medial division, medial medial part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

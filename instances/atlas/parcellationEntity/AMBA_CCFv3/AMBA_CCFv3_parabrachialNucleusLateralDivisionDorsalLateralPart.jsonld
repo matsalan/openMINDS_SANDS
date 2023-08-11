@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_parabrachialNucleusLateralDivisionDorsalLateralPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_parabrachialNucleusLateralDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_parabrachialNucleusLateralDivisionDorsalLateralPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionDorsalLateralPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_parabrachialNucleusLateralDivisionDorsalLateralPart",
+  "name": "parabrachial nucleus, lateral division, dorsal lateral part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_bedNucleiOfTheStriaTerminalisPosteriorDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus",
+  "name": "bed nuclei of the stria terminalis, posterior division, transverse nucleus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

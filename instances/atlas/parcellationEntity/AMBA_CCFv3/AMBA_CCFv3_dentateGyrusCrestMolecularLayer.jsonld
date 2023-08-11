@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusCrestMolecularLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusCrest"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_dentateGyrusCrestMolecularLayer"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusCrestMolecularLayer"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_dentateGyrusCrestMolecularLayer",
+  "name": "dentate gyrus crest, molecular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

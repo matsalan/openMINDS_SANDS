@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_interanterodorsalNucleusOfTheThalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_anteriorGroupOfTheDorsalThalamus"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_interanterodorsalNucleusOfTheThalamus"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interanterodorsalNucleusOfTheThalamus"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_interanterodorsalNucleusOfTheThalamus",
+  "name": "interanterodorsal nucleus of the thalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

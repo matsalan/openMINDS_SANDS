@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_taeniaTectaDorsalPartLayer2",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_taeniaTectaDorsalPart"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_taeniaTectaDorsalPartLayer2"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer2"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_taeniaTectaDorsalPartLayer2",
+  "name": "taenia tecta, dorsal part, layer 2",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

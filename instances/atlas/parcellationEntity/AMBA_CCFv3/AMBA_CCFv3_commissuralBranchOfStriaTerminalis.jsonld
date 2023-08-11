@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_commissuralBranchOfStriaTerminalis",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_striaTerminalis"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_commissuralBranchOfStriaTerminalis"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_commissuralBranchOfStriaTerminalis"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_commissuralBranchOfStriaTerminalis",
+  "name": "commissural branch of stria terminalis",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

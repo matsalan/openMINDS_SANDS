@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusParvicellularDivisionPeriventricularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusParvicellularDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_paraventricularHypothalamicNucleusParvicellularDivisionPeriventricularPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionPeriventricularPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_paraventricularHypothalamicNucleusParvicellularDivisionPeriventricularPart",
+  "name": "paraventricular hypothalamic nucleus, parvicellular division, periventricular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

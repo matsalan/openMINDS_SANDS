@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusLateralBladeMolecularLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dentateGyrusLateralBlade"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_dentateGyrusLateralBladeMolecularLayer"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusLateralBladeMolecularLayer"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_dentateGyrusLateralBladeMolecularLayer",
+  "name": "dentate gyrus lateral blade, molecular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvicellularPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_paraventricularHypothalamicNucleusDescendingDivision"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvicellularPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvicellularPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvicellularPart",
+  "name": "paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_mainOlfactoryBulbGlomerularLayer",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_mainOlfactoryBulb"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_mainOlfactoryBulbGlomerularLayer"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbGlomerularLayer"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_mainOlfactoryBulbGlomerularLayer",
+  "name": "main olfactory bulb, glomerular layer",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaLowerLimbLayer1",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_primarySomatosensoryAreaLowerLimb"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_primarySomatosensoryAreaLowerLimbLayer1"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer1"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_primarySomatosensoryAreaLowerLimbLayer1",
+  "name": "primary somatosensory area, lower limb, layer 1",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_intergeniculateLeafletOfTheLateralGeniculateComplex",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_geniculateGroup,VentralThalamus"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_intergeniculateLeafletOfTheLateralGeniculateComplex"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intergeniculateLeafletOfTheLateralGeniculateComplex"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_intergeniculateLeafletOfTheLateralGeniculateComplex",
+  "name": "intergeniculate leaflet of the lateral geniculate complex",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_dorsomedialNucleusOfTheHypothalamus",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_periventricularRegion"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_dorsomedialNucleusOfTheHypothalamus"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamus"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_dorsomedialNucleusOfTheHypothalamus",
+  "name": "dorsomedial nucleus of the hypothalamus",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

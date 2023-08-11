@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_nucleusOfReunions",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_midlineGroupOfTheDorsalThalamus"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_nucleusOfReunions"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_nucleusOfReunions",
+  "name": "nucleus of reunions",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}

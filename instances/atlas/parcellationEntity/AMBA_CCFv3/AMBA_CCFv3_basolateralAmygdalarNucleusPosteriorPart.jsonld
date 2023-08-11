@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_basolateralAmygdalarNucleusPosteriorPart",
+  "@type": "https://openminds.ebrains.eu/sands/ParcellationEntity",
+  "abbreviation": null,
+  "alternateName": null,
+  "definition": null,
+  "hasParent": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntity/AMBA_CCFv3_basolateralAmygdalarNucleus"
+    }
+  ],
+  "hasVersion": [
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2015_basolateralAmygdalarNucleusPosteriorPart"
+    },
+    {
+      "@id": "https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basolateralAmygdalarNucleusPosteriorPart"
+    }
+  ],
+  "lookupLabel": "AMBA_CCFv3_basolateralAmygdalarNucleusPosteriorPart",
+  "name": "basolateral amygdalar nucleus, posterior part",
+  "ontologyIdentifier": null,
+  "relatedUBERONTerm": null
+}
