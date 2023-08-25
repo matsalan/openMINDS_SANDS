@@ -13,7 +13,9 @@
       "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
       "anchorPoint": null,
       "criteria": null,
-      "criteriaQualityType": null,
+      "criteriaQualityType": {
+        "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/asserted"
+      },
       "criteriaType": {
         "@id": "https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation"
       },
